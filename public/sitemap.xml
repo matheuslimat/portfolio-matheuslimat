@@ -65,15 +65,11 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/guide</loc>
-  </url>
-
-  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/frontend</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/hardware</loc>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/guide</loc>
   </url>
 
   <url>
@@ -86,6 +82,10 @@
 
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/perifericos</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/hardware</loc>
   </url>
 
   <url>
