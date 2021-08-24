@@ -18,7 +18,9 @@ export default function App({ Component, pageProps }) {
           zIndex: -1,
         }}
       >
-        <div className="particle"><ParticleBackground /></div>
+        <div className="particle">
+          <ParticleBackground />
+        </div>
         <Head>
           <meta content="width=device-width, initial-scale=1" name="viewport" />
         </Head>
@@ -27,7 +29,6 @@ export default function App({ Component, pageProps }) {
       <LayoutWrapper>
         <Component {...pageProps} />
       </LayoutWrapper>
-
     </ThemeProvider>
   )
 }
