@@ -1,0 +1,19 @@
+{
+  "title": "Matheus DEV | Portfólio e Blog",
+  "author": "Matheus Costa  ",
+  "headerTitle": "Matheus DEV | Portfólio e Blog",
+  "description": "Criado com Next.js",
+  "language": "pt-br",
+  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  "siteLogo": "/static/images/logo.png",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "matheuslimat@gmail.com",
+  "github": "https://github.com/matheuslimat",
+  "twitter": "https://twitter.com/Twitter",
+  "facebook": "https://www.facebook.com/matheuslimat/",
+  "youtube": "https://youtube.com",
+  "linkedin": "https://www.linkedin.com/in/matheus-lima-30a8a2150/",
+  "locale": "en-US"
+}

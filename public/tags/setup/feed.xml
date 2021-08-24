@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Matheus DEV | Portfólio e Blog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>Criado com Next.js</description>
+      <language>pt-br</language>
+      <managingEditor>address@yoursite.com (Matheus Costa  )</managingEditor>
+      <webMaster>address@yoursite.com (Matheus Costa  )</webMaster>
+      <lastBuildDate>Sun, 11 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/setup/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-in-v1</guid>
+    <title>Meu SETUP Atualizado 2021</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-in-v1</link>
+    <description>Conheça meu SETUP atualizado e outras curiosidades sobre mim.</description>
+    <pubDate>Sun, 11 Jul 2021 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Matheus Costa  )</author>
+    <category>SETUP</category><category>Hardware</category><category>Perifericos</category>
+  </item>
+
+    </channel>
+  </rss>
