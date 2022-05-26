@@ -7,19 +7,9 @@
       <language>pt-br</language>
       <managingEditor>matheuslimat@gmail.com (Matheus Costa  )</managingEditor>
       <webMaster>matheuslimat@gmail.com (Matheus Costa  )</webMaster>
-      <lastBuildDate>Sun, 11 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 02 May 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/meu-setup</guid>
-    <title>Meu SETUP Atualizado 2021</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/meu-setup</link>
-    <description>Conheça meu SETUP atualizado e outras curiosidades sobre mim.</description>
-    <pubDate>Sun, 11 Jul 2021 00:00:00 GMT</pubDate>
-    <author>matheuslimat@gmail.com (Matheus Costa  )</author>
-    <category>SETUP</category><category>Hardware</category><category>Perifericos</category>
-  </item>
-
   <item>
     <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/nested-route/apresentacao</guid>
     <title>Deixa eu me apresentar melhor!</title>
@@ -27,7 +17,7 @@
     <description>Me chamo Matheus, algumas pessoas me conhecem como Lima, outras conhecem como Tavares e algumas pelo meu Nickname ;)</description>
     <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
     <author>matheuslimat@gmail.com (Matheus Costa  )</author>
-    <category>Curiosidades</category><category>Biografia</category>
+    <category>Autor</category><category>Curiosidades</category><category>Biografia</category>
   </item>
 
   <item>

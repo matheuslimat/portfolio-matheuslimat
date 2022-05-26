@@ -9,16 +9,7 @@
       <webMaster>matheuslimat@gmail.com (Matheus Costa  )</webMaster>
       <lastBuildDate>Sun, 11 Jul 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/perifericos/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/meu-setup</guid>
-    <title>Meu SETUP Atualizado 2021</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/meu-setup</link>
-    <description>Conheça meu SETUP atualizado e outras curiosidades sobre mim.</description>
-    <pubDate>Sun, 11 Jul 2021 00:00:00 GMT</pubDate>
-    <author>matheuslimat@gmail.com (Matheus Costa  )</author>
-    <category>SETUP</category><category>Hardware</category><category>Perifericos</category>
-  </item>
+    
 
     </channel>
   </rss>
