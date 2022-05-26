@@ -10,5 +10,12 @@ export async function getStaticProps() {
 
 export default function About({ authorDetails }) {
   const { mdxSource, frontMatter } = authorDetails
-  return <h1>ola</h1>
+
+  return (
+    <MDXLayoutRenderer
+      layout={frontMatter.layout || DEFAULT_LAYOUT}
+      mdxSource={mdxSource}
+      frontMatter={frontMatter}
+    />
+  )
 }
