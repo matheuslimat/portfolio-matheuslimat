@@ -12,7 +12,7 @@ const projectsData = [
     href: '/blog/hello-world',
   },
   {
-    title: 'PS-Ame',
+    title: 'PS Ame',
     description: `Painel Administrativo criado com next e java, para criação e administração de pedidos de uma loja.`,
     imgSrc: '/static/images/psame.jpg',
     href: 'https://psame-app.vercel.app/',

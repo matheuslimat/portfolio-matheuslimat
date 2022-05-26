@@ -39,3 +39,7 @@ module.exports = withBundleAnalyzer({
     return config
   },
 })
+
+{
+  true
+}
