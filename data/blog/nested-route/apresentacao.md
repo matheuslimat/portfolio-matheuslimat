@@ -1,7 +1,7 @@
 ---
 title: Deixa eu me apresentar melhor!
 date: '2021-05-02'
-tags: ['Autor', 'Curiosidades', 'Biografia']
+tags: ['Curiosidades', 'Biografia']
 draft: false
 summary: 'Me chamo Matheus, algumas pessoas me conhecem como Lima, outras conhecem como Tavares e algumas pelo meu Nickname ;)'
 ---
