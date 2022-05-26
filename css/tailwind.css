@@ -3,66 +3,65 @@
 @tailwind utilities;
 
 .remark-code-title {
-    @apply px-5 py-3 font-mono text-sm font-bold text-gray-200 bg-gray-700 rounded-t;
+  @apply px-5 py-3 font-mono text-sm font-bold text-gray-200 bg-gray-700 rounded-t;
 }
 
 .remark-code-title + div > pre {
-    @apply mt-0 rounded-t-none;
+  @apply mt-0 rounded-t-none;
 }
 
 .task-list-item:before {
-    @apply hidden;
+  @apply hidden;
 }
 
 .code-line {
-    @apply pl-4 -mx-4 border-l-4 border-gray-800;
+  @apply pl-4 -mx-4 border-l-4 border-gray-800;
 }
 
 .highlight-line {
-    @apply -mx-4 bg-gray-700 bg-opacity-50 border-l-4 border-primary-500;
+  @apply -mx-4 bg-gray-700 bg-opacity-50 border-l-4 border-primary-500;
 }
 
 .line-number::before {
-    @apply pr-4 -ml-2 text-gray-400;
-    content: attr(line);
+  @apply pr-4 -ml-2 text-gray-400;
+  content: attr(line);
 }
 
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 .mr-3 {
-    animation-name: fade;
-    animation-duration: 2s;
+  animation-name: fade;
+  animation-duration: 5s;
 }
 
 @keyframes fade {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
-
 
 /* The typing effect */
 @keyframes typing {
-    from {
-        width: 0
-    }
-    to {
-        width: 100%
-    }
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
 }
 
 /* The typewriter cursor effect */
 @keyframes blink-caret {
-    from,
-    to {
-        border-color: transparent
-    }
-    50% {
-        border-color: orange;
-    }
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: orange;
+  }
 }

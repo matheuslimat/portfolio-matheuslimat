@@ -6,7 +6,6 @@ import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
-import ParticleBackground from '../pages/ParticleBackground'
 
 const LayoutWrapper = ({ children }) => {
   return (
