@@ -9,6 +9,12 @@ module.exports = withBundleAnalyzer({
     dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
   },
   webpack: (config, { dev, isServer }) => {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      // fixes next-mdx-remote: Package path ./jsx-runtime.js is not exported from package react
+      // https://github.com/hashicorp/next-mdx-remote/issues/237
+      'react/jsx-runtime.js': require.resolve('react/jsx-runtime'),
+    }
     config.module.rules.push({
       test: /\.(png|jpe?g|gif|mp4)$/i,
       use: [

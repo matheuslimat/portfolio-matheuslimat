@@ -13,10 +13,6 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/ParticleBackground</loc>
-  </url>
-
-  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/projects</loc>
   </url>
 
@@ -53,11 +49,11 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/curiosidades</loc>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/biografia</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/biografia</loc>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/curiosidades</loc>
   </url>
 
   <url>
@@ -66,6 +62,10 @@
 
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/guide</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/hardware</loc>
   </url>
 
   <url>
@@ -78,10 +78,6 @@
 
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/perifericos</loc>
-  </url>
-
-  <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/hardware</loc>
   </url>
 
   <url>
