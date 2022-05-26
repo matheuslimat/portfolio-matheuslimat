@@ -25,10 +25,6 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/meu-setup</loc>
-  </url>
-
-  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.appdata/authors/default</loc>
   </url>
 
@@ -57,11 +53,11 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/frontend</loc>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/curiosidades</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/curiosidades</loc>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/frontend</loc>
   </url>
 
   <url>
