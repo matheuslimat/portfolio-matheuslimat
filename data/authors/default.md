@@ -15,4 +15,4 @@ Também trabalhei como desenvolvedor de software em uma empresa de meios de paga
 
 Ainda em 2020 para 2021, trabalhei em uma empresa de inteligência artificial, as tecnologias que eu tive contato foram, Python, Flask, e banco de dados postgresql.
 
-Atualmente trabalho como Full Stack Developer, e por esse motivo montei este portifólio em Next.js, a fim de por minhas habilidades de frontend para trabalhar um pouquinho.
+Atualmente trabalho como Full Stack Developer, mas meu foco mesmo é o back-end, e por esse motivo montei este portifólio em Next.js, a fim de por minhas habilidades de frontend para trabalhar mais um pouquinho.

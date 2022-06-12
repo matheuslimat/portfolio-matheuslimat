@@ -94,7 +94,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             <footer>
               <div className="text-sm font-medium leading-5 divide-gray-200 xl:divide-y dark:divide-gray-700 xl:col-start-1 xl:row-start-2">
                 {tags && (
-                  <div className="py-4 xl:py-8">
+                  <div className=" xl:py-8">
                     <h2 className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
                       Tags
                     </h2>
