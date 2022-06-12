@@ -16,7 +16,7 @@ export const PageSeo = ({ title, description }) => {
       <meta property="og:title" content={title} />
       <meta
         property="og:image"
-        content="https://img001.prntscr.com/file/img001/09XtMU4VSGW9t0PbZB2pEg.png"
+        content="https://img001.prntscr.com/file/img001/aQiWV7mwS4SqMZLP6djQyA.png"
       />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content={siteMetadata.twitter} />
@@ -24,7 +24,7 @@ export const PageSeo = ({ title, description }) => {
       <meta name="twitter:description" content={description} />
       <meta
         name="twitter:image"
-        content="https://img001.prntscr.com/file/img001/09XtMU4VSGW9t0PbZB2pEg.png"
+        content="https://img001.prntscr.com/file/img001/aQiWV7mwS4SqMZLP6djQyA.png"
       />
     </Head>
   )
@@ -104,7 +104,10 @@ export const BlogSeo = ({ authorDetails, title, summary, date, lastmod, url, ima
         <meta name="twitter:site" content={siteMetadata.twitter} />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={summary} />
-        <meta name="twitter:image" content={featuredImages[0].url} />
+        <meta
+          name="twitter:image"
+          content="https://img001.prntscr.com/file/img001/aQiWV7mwS4SqMZLP6djQyA.png"
+        />
         {date && <meta property="article:published_time" content={publishedAt} />}
         {lastmod && <meta property="article:modified_time" content={modifiedAt} />}
         <link rel="canonical" href={`${siteMetadata.siteUrl}${router.asPath}`} />
