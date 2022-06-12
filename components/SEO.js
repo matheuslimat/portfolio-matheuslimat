@@ -14,7 +14,10 @@ export const PageSeo = ({ title, description }) => {
       <meta property="og:site_name" content={siteMetadata.title} />
       <meta property="og:description" content={description} />
       <meta property="og:title" content={title} />
-      <meta property="og:image" content="https://prnt.sc/uzvlCDwvFK4D" />
+      <meta
+        property="og:image"
+        content="https://img001.prntscr.com/file/img001/09XtMU4VSGW9t0PbZB2pEg.png"
+      />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content={siteMetadata.twitter} />
       <meta name="twitter:title" content={title} />
