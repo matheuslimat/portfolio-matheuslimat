@@ -22,7 +22,10 @@ export const PageSeo = ({ title, description }) => {
       <meta name="twitter:site" content={siteMetadata.twitter} />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
-      <meta name="twitter:image" content={`${siteMetadata.siteUrl}${siteMetadata.socialBanner}`} />
+      <meta
+        name="twitter:image"
+        content="https://img001.prntscr.com/file/img001/09XtMU4VSGW9t0PbZB2pEg.png"
+      />
     </Head>
   )
 }
