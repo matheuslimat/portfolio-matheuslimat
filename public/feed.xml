@@ -11,9 +11,9 @@
       <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/nested-route/apresentacao</guid>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/todas/apresentacao</guid>
     <title>Deixa eu me apresentar melhor!</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/nested-route/apresentacao</link>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/todas/apresentacao</link>
     <description>Me chamo Matheus, algumas pessoas me conhecem como Lima, outras conhecem como Tavares e algumas pelo meu Nickname ;)</description>
     <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
     <author>matheuslimat@gmail.com (Matheus Costa  )</author>
