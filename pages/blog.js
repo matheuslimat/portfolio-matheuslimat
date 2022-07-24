@@ -2,6 +2,7 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import siteMetadata from '@/data/siteMetadata'
 import ListLayout from '@/layouts/ListLayout'
 import { PageSeo } from '@/components/SEO'
+import { i18n } from '../components/translate/i18n'
 
 export const POSTS_PER_PAGE = 5
 
@@ -24,7 +25,7 @@ export default function Blog({ posts, initialDisplayPosts, pagination }) {
         posts={posts}
         initialDisplayPosts={initialDisplayPosts}
         pagination={pagination}
-        title="Todas as postagens"
+        title={i18n.t('titles.blog')}
       />
     </>
   )

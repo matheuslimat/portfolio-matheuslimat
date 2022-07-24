@@ -4,6 +4,13 @@ import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
 import LayoutWrapper from '@/components/LayoutWrapper'
 
+const I18N_STORAGE_KEY = 'i18nextLng'
+
+const handleSelectChange = (event) => {
+  localStorage.setItem(I18N_STORAGE_KEY, event.target.value)
+  window.location = location
+}
+
 export default function App({ Component, pageProps }) {
   return (
     <ThemeProvider attribute="class">
@@ -20,6 +27,18 @@ export default function App({ Component, pageProps }) {
         <Head>
           <meta content="width=device-width, initial-scale=1" name="viewport" />
         </Head>
+      </div>
+      <div
+        className="change-language"
+        style={{
+          paddingLeft: 1450,
+        }}
+      >
+        <select onChange={handleSelectChange}>
+          <option>Choose your language</option>
+          <option value="pt-BR">PT</option>
+          <option value="en-US">EN</option>
+        </select>
       </div>
 
       <LayoutWrapper>
