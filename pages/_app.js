@@ -138,7 +138,7 @@ export default function App({ Component, pageProps }) {
       >
         <ReactFlagsSelect
           countries={['US', 'BR']}
-          customLabels={{ US: '', BR: '' }}
+          customLabels={{ US: ' ', BR: ' ' }}
           placeholder="Select Language"
           selected={selected}
           onSelect={(code) => handleSelectChange(code)}
