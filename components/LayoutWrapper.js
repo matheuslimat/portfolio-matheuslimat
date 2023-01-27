@@ -44,6 +44,11 @@ const LayoutWrapper = ({ children }) => {
             <ThemeSwitch />
             <MobileNav />
           </div>
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6623387499630741"
+            crossOrigin="anonymous"
+          ></script>
         </header>
         <main className="mb-auto">{children}</main>
         <Footer />
