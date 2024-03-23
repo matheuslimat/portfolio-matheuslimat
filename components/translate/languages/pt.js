@@ -2,7 +2,7 @@ const messages = {
   pt: {
     translations: {
       search: {
-        description: 'Quer achar algo especifico? Procure aqui :)',
+        description: 'Vant significa: Valorizando Ações com Novas Tecnologias',
       },
       head_nav_link: {
         blog: 'Blog',
