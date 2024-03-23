@@ -41,6 +41,10 @@
   </url>
 
   <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/todas/chat-gpt</loc>
+  </url>
+
+  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/autor</loc>
   </url>
 
@@ -53,6 +57,10 @@
   </url>
 
   <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/chat-gpt</loc>
+  </url>
+
+  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/curiosidades</loc>
   </url>
 
@@ -61,7 +69,19 @@
   </url>
 
   <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/ganhar-dinheiro</loc>
+  </url>
+
+  <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/guide</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/inteligencia-artificial</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/next-js</loc>
   </url>
 
   <url>
@@ -69,7 +89,7 @@
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/next-js</loc>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/perif-ricos</loc>
   </url>
 
   <url>
@@ -82,9 +102,5 @@
 
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/tailwind</loc>
-  </url>
-
-  <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/perif-ricos</loc>
   </url>
 </urlset>
